@@ -1,5 +1,4 @@
 
-  
 body{
   margin : 0;
 }
@@ -13,7 +12,7 @@ border-style: dotted none none;
 border-color: grey;
 border-width: 5px;
 height: 0px;
-width: 10%;
+width: 15%;
 }
 
 .top-container{
@@ -21,18 +20,15 @@ width: 10%;
 }
 
 .HOBBIES{
-  background-color: #dcedc1;
+  background-color: #f4ea8e;
 }
 .HOBBIES-row{
-  background-color: #d4f3ef;
+  background-color: #ffd3b6;
 }
 
 .myself{
-  background-color: #ffd3b6;
-}
-.bottom-container{
-   background-color: #ed6663;
+  background-color: #b2ebf2;
 }
 .contact-me{
-   background-color: #abedd8;
+   background-color: #ffaaa5;
 }
