@@ -15,28 +15,58 @@ border-style: dotted none none;
 border-color: grey;
 border-width: 5px;
 height: 0px;
-width: 15%;
+width: 20%;
+
 }
 
 .top-container{
-  background-color:  #f37121;
-  
+  background-color:  #00a8cc;
 }
 
 .about-me{
-  background-color: #f9c49a;
+  background-color: #dddddd;
+    line-height: 2;
 }
 
 .HOBBIES{
-  background-color:#f4ea8e;
+  background-color:#dddddd;
 }
 .HOBBIES-row{
-  background-color:#cbe2b0;
+  background-color:#dddddd;
 }
 
 .myself{
-  background-color: #b2ebf2;
+  background-color: #dddddd;
+    line-height: 2;
 }
 .contact-me{
-   background-color: #eb4559;
+   background-color: #dddddd;
+}
+.bottom-container{
+  background-color:#0c7b93;
+}
+.copyright{
+   color: #dddddd;
+}
+
+.btn {
+	box-shadow: 0px 7px 11px 0px #000000;
+	background-color:#db1111;
+	border-radius:28px;
+	border:1px solid #140000;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #cf0404;
+}
+.btn:hover {
+	background-color:#bf0b0b;
+}
+.btn:active {
+	position:relative;
+	top:1px;
 }
