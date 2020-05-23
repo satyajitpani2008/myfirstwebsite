@@ -52,22 +52,23 @@ width: 20%;
    color: #dddddd;
 }
 
+
 .btn {
-	box-shadow: 0px 7px 11px 0px #000000;
-	background-color:#db1111;
-	border-radius:28px;
-	border:1px solid #140000;
+	box-shadow: 4px 6px 11px 3px #000000;
+	background-color:#d93030;
+	border-radius:29px;
+	border:1px solid #000000;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
 	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
+	font-size:28px;
+	padding:19px 32px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #cf0404;
+	text-shadow:0px 1px 0px #000000;
 }
 .btn:hover {
-	background-color:#bf0b0b;
+	background-color:#a32727;
 }
 .btn:active {
 	position:relative;
