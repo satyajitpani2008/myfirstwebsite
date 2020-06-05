@@ -21,8 +21,12 @@ width: 20%;
 
 }
 
+a{
+  color: #005082;
+}
+
 .top-container{
-  background-color:  #00a8cc;
+  background-color: #00a8cc;
 }
 
 .about-me{
@@ -46,7 +50,7 @@ width: 20%;
    background-color: #dddddd;
 }
 .bottom-container{
-  background-color:#0c7b93;
+  background-color: #0c7b93;
 }
 .copyright{
    color: #dddddd;
