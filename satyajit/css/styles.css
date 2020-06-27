@@ -9,7 +9,7 @@ body{
 h1 {
    margin-top: 0;
    font-style: italic;
-   color: #162447;
+   color: #f4f6ff;
 }
 
 .video{
@@ -21,38 +21,42 @@ h1 {
    width: auto;
    height: auto;
    z-index: -1;
+   position: absolute;
 }
 
 a{
-  color: #005082;
+  color: #e5dfdf;
+}
+
+h3{
+  color: #dbdbdb;
 }
 
 
-
 .about-me{
-  background-color: #dddddd;
+  background-color: #184d47;
     line-height: 2;
 }
 
 
 .HOBBIES{
-  background-color:#dddddd;
+  background-color:#184d47;
 }
 .HOBBIES-row{
-  background-color:#dddddd;
+  background-color:#184d47;
 }
 
 .myself{
-  background-color: #dddddd;
+  background-color: #184d47;
     line-height: 2;
 }
 .contact-me{
-   background-color: #dddddd;
+   background-color: #184d47;
 }
 .bottom-container{
-  background-color: #142850;
+  background-color: #184d47;
 }
-.copyright{
+.contact-me{
    color: #dddddd;
 }
 
@@ -78,7 +82,3 @@ a{
 	position:relative;
 	top:1px;
 }
-
-
-
-
