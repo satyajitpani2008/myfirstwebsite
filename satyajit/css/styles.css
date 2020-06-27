@@ -9,25 +9,25 @@ body{
 h1 {
    margin-top: 0;
    font-style: italic;
-   color: #142850;
+   color: #162447;
 }
-hr {
-background-color: white;
-border-style: dotted none none;
-border-color: grey;
-border-width: 5px;
-height: 0px;
-width: 20%;
 
+.video{
+   position: absolute;
+   right: 0;
+   bottom: 0;
+   min-width: 100%;
+   max-width: 100%;
+   width: auto;
+   height: auto;
+   z-index: -1;
 }
 
 a{
   color: #005082;
 }
 
-.top-container{
-  background-color: #00a8cc;
-}
+
 
 .about-me{
   background-color: #dddddd;
@@ -50,7 +50,7 @@ a{
    background-color: #dddddd;
 }
 .bottom-container{
-  background-color: #0c7b93;
+  background-color: #142850;
 }
 .copyright{
    color: #dddddd;
@@ -78,3 +78,7 @@ a{
 	position:relative;
 	top:1px;
 }
+
+
+
+
