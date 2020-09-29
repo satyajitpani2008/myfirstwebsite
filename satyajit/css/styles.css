@@ -12,16 +12,8 @@ h1 {
    color: #f4f6ff;
 }
 
-.video{
-   position: absolute;
-   right: 0;
-   bottom: 0;
-   min-width: 100%;
-   max-width: 100%;
-   width: auto;
-   height: auto;
-   z-index: -1;
-   position: absolute;
+.back{
+    background-color: #184d47
 }
 
 a{
